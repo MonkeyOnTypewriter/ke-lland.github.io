@@ -88,10 +88,6 @@ h4 {
     font-weight:normal;
 }
 
-h4 span {
-    padding: 0 0 .5rem .5rem;
-    
-}
 
 h5 {
     font-size:1rem;
@@ -143,5 +139,10 @@ footer {
     padding: 1rem 1rem 1rem 1rem;
     border-top: 2rem solid #333;
 }
+
+h4 > span {
+    padding: 0 .5rem 0;
+    
+} 
 
 

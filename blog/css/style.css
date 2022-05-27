@@ -267,10 +267,13 @@ footer a:any-link {
   text-decoration: none;
 }
 
+footer .goodgood {
+  min-width:8rem;
+}
 
 footer div {
-  width: 20rem;
-  flex-shrink: 1;
+  width: 40rem;
+  flex-grow: 3;
   min-width: 2rem;
 }
 
